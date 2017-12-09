@@ -1,0 +1,37 @@
+D:\projects\Paragliding booking system\Paragliding booking system\bin\ApplicationInsights.config
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Paragliding booking system.dll.config
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Paragliding booking system.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Paragliding booking system.pdb
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Antlr3.Runtime.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\AspNet.ScriptManager.bootstrap.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\AspNet.ScriptManager.jQuery.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AI.Agent.Intercept.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AI.DependencyCollector.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AI.Web.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AI.WindowsServer.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.ApplicationInsights.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.ScriptManager.WebForms.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.Web.Infrastructure.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Newtonsoft.Json.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\System.Web.Optimization.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\WebGrease.dll
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projects\Paragliding booking system\Paragliding booking system\bin\System.Web.Optimization.xml
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Antlr3.Runtime.pdb
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Newtonsoft.Json.xml
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.ApplicationInsights.xml
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AI.DependencyCollector.xml
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AI.WindowsServer.xml
+D:\projects\Paragliding booking system\Paragliding booking system\bin\Microsoft.AI.Web.xml
+D:\projects\Paragliding booking system\Paragliding booking system\obj\Debug\Paragliding booking system.csprojResolveAssemblyReference.cache
+D:\projects\Paragliding booking system\Paragliding booking system\obj\Debug\Paragliding booking system.csproj.CoreCompileInputs.cache
+D:\projects\Paragliding booking system\Paragliding booking system\obj\Debug\Paragliding booking system.dll
+D:\projects\Paragliding booking system\Paragliding booking system\obj\Debug\Paragliding booking system.pdb
