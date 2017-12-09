@@ -1,0 +1,6 @@
+D:\projects\Paragliding booking system\DAL\bin\Debug\DAL.dll
+D:\projects\Paragliding booking system\DAL\bin\Debug\DAL.pdb
+D:\projects\Paragliding booking system\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\projects\Paragliding booking system\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\projects\Paragliding booking system\DAL\obj\Debug\DAL.dll
+D:\projects\Paragliding booking system\DAL\obj\Debug\DAL.pdb
