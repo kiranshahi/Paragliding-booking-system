@@ -1,0 +1,8 @@
+D:\projects\Paragliding booking system\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\projects\Paragliding booking system\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\projects\Paragliding booking system\BLL\bin\Release\BLL.dll
+D:\projects\Paragliding booking system\BLL\bin\Release\BLL.pdb
+D:\projects\Paragliding booking system\BLL\bin\Release\DAL.dll
+D:\projects\Paragliding booking system\BLL\bin\Release\DAL.pdb
+D:\projects\Paragliding booking system\BLL\obj\Release\BLL.dll
+D:\projects\Paragliding booking system\BLL\obj\Release\BLL.pdb

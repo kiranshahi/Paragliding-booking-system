@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paragliding booking system"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F6F9B2DE-588D-4469-B56F-0C8C4D9B4B6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{D181F365-689C-4C33-9557-879AC9685005}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F6F9B2DE-588D-4469-B56F-0C8C4D9B4B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6F9B2DE-588D-4469-B56F-0C8C4D9B4B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6F9B2DE-588D-4469-B56F-0C8C4D9B4B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D181F365-689C-4C33-9557-879AC9685005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D181F365-689C-4C33-9557-879AC9685005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D181F365-689C-4C33-9557-879AC9685005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D181F365-689C-4C33-9557-879AC9685005}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
